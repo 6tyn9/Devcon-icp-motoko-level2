@@ -102,3 +102,4 @@ If you are hosting the frontend code outside of DFX, you may need to make adjust
 You're now ready to start working with the **Portfolio Template** project. Customize it, build your canisters, and have fun developing on the Internet Computer. If you run into any issues or need help, feel free to check the [official documentation](https://internetcomputer.org/docs).
 
 Happy coding! 🚀
+# Hayme
